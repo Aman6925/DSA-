@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Aman6925/DSA-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Aman6925/DSA-/tree/master/0088-merge-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aman6925/DSA-/tree/master/0209-minimum-size-subarray-sum) |
+| [0904-fruit-into-baskets](https://github.com/Aman6925/DSA-/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aman6925/DSA-/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
@@ -50,8 +51,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Aman6925/DSA-/tree/master/0209-minimum-size-subarray-sum) |
+| [0904-fruit-into-baskets](https://github.com/Aman6925/DSA-/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Aman6925/DSA-/tree/master/0209-minimum-size-subarray-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0904-fruit-into-baskets](https://github.com/Aman6925/DSA-/tree/master/0904-fruit-into-baskets) |
 <!---LeetCode Topics End-->
