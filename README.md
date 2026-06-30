@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Aman6925/DSA-/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Aman6925/DSA-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Aman6925/DSA-/tree/master/0088-merge-sorted-array) |
+| [0567-permutation-in-string](https://github.com/Aman6925/DSA-/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/Aman6925/DSA-/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aman6925/DSA-/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aman6925/DSA-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Aman6925/DSA-/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Aman6925/DSA-/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Aman6925/DSA-/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/Aman6925/DSA-/tree/master/0844-backspace-string-compare) |
 ## Stack
 |  |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Aman6925/DSA-/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aman6925/DSA-/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Aman6925/DSA-/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Aman6925/DSA-/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Aman6925/DSA-/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
 |  |
@@ -68,5 +71,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aman6925/DSA-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Aman6925/DSA-/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Aman6925/DSA-/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Aman6925/DSA-/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Aman6925/DSA-/tree/master/0904-fruit-into-baskets) |
 <!---LeetCode Topics End-->
