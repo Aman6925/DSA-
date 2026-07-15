@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1025-divisor-game](https://github.com/Aman6925/DSA-/tree/master/1025-divisor-game) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Aman6925/DSA-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Aman6925/DSA-/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Aman6925/DSA-/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Aman6925/DSA-/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Brainteaser
@@ -184,4 +185,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Aman6925/DSA-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Aman6925/DSA-/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
