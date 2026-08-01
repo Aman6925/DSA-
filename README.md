@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Aman6925/DSA-/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/Aman6925/DSA-/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aman6925/DSA-/tree/master/0209-minimum-size-subarray-sum) |
+| [0486-predict-the-winner](https://github.com/Aman6925/DSA-/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aman6925/DSA-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0904-fruit-into-baskets](https://github.com/Aman6925/DSA-/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aman6925/DSA-/tree/master/0977-squares-of-a-sorted-array) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/Aman6925/DSA-/tree/master/0152-maximum-product-subarray) |
+| [0486-predict-the-winner](https://github.com/Aman6925/DSA-/tree/master/0486-predict-the-winner) |
 | [1025-divisor-game](https://github.com/Aman6925/DSA-/tree/master/1025-divisor-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/Aman6925/DSA-/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Aman6925/DSA-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Aman6925/DSA-/tree/master/0189-rotate-array) |
+| [0486-predict-the-winner](https://github.com/Aman6925/DSA-/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aman6925/DSA-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/Aman6925/DSA-/tree/master/1025-divisor-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aman6925/DSA-/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Aman6925/DSA-/tree/master/0486-predict-the-winner) |
 | [1025-divisor-game](https://github.com/Aman6925/DSA-/tree/master/1025-divisor-game) |
 ## Greedy
 |  |
@@ -267,4 +271,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Aman6925/DSA-/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Aman6925/DSA-/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
