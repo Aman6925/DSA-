@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Aman6925/DSA-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Aman6925/DSA-/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/Aman6925/DSA-/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/Aman6925/DSA-/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Aman6925/DSA-/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aman6925/DSA-/tree/master/0209-minimum-size-subarray-sum) |
 | [0486-predict-the-winner](https://github.com/Aman6925/DSA-/tree/master/0486-predict-the-winner) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Aman6925/DSA-/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Aman6925/DSA-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Aman6925/DSA-/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Aman6925/DSA-/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aman6925/DSA-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aman6925/DSA-/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/Aman6925/DSA-/tree/master/1288-remove-covered-intervals) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aman6925/DSA-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Aman6925/DSA-/tree/master/0076-minimum-window-substring) |
+| [0169-majority-element](https://github.com/Aman6925/DSA-/tree/master/0169-majority-element) |
 | [0424-longest-repeating-character-replacement](https://github.com/Aman6925/DSA-/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Aman6925/DSA-/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Aman6925/DSA-/tree/master/0904-fruit-into-baskets) |
@@ -337,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Aman6925/DSA-/tree/master/0169-majority-element) |
 | [2029-stone-game-ix](https://github.com/Aman6925/DSA-/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aman6925/DSA-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aman6925/DSA-/tree/master/3312-sorted-gcd-pair-queries) |
@@ -393,4 +397,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Aman6925/DSA-/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Aman6925/DSA-/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Aman6925/DSA-/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
