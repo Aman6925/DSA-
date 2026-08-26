@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Aman6925/DSA-/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Aman6925/DSA-/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/Aman6925/DSA-/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aman6925/DSA-/tree/master/0628-maximum-product-of-three-numbers) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Aman6925/DSA-/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/Aman6925/DSA-/tree/master/0486-predict-the-winner) |
 ## Backtracking
 |  |
