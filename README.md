@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Aman6925/DSA-/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Aman6925/DSA-/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aman6925/DSA-/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/Aman6925/DSA-/tree/master/0238-product-of-array-except-self) |
 | [0486-predict-the-winner](https://github.com/Aman6925/DSA-/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aman6925/DSA-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Aman6925/DSA-/tree/master/0877-stone-game) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Aman6925/DSA-/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/Aman6925/DSA-/tree/master/0238-product-of-array-except-self) |
 | [1140-stone-game-ii](https://github.com/Aman6925/DSA-/tree/master/1140-stone-game-ii) |
 | [1872-stone-game-viii](https://github.com/Aman6925/DSA-/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aman6925/DSA-/tree/master/3312-sorted-gcd-pair-queries) |
