@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aman6925/DSA-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/Aman6925/DSA-/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Aman6925/DSA-/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/Aman6925/DSA-/tree/master/0115-distinct-subsequences) |
 | [0424-longest-repeating-character-replacement](https://github.com/Aman6925/DSA-/tree/master/0424-longest-repeating-character-replacement) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Aman6925/DSA-/tree/master/0020-valid-parentheses) |
 | [0844-backspace-string-compare](https://github.com/Aman6925/DSA-/tree/master/0844-backspace-string-compare) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aman6925/DSA-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/Aman6925/DSA-/tree/master/1096-brace-expansion-ii) |
@@ -516,5 +518,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Aman6925/DSA-/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aman6925/DSA-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
